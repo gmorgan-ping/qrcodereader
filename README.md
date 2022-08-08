@@ -1,0 +1,2 @@
+# qrcodereader
+Created with CodeSandbox
